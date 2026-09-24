@@ -1,0 +1,11 @@
+{
+  "text": "Turn the pump on for 30 seconds.",
+  "sensor_data": {
+    "ph": 6.1,
+    "ec": 1.7,
+    "temperature": 24.5,
+    "humidity": 62,
+    "water_level": 68,
+    "light_intensity": 420
+  }
+}
