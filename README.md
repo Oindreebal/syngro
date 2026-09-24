@@ -1,4 +1,4 @@
-# HydroGuard: A Multimodal Multi-Agent AI Controller with Safety Guardrails for Smart Hydroponics
+# SynGro: A Multimodal Multi-Agent AI Controller with Safety Guardrails for Smart Hydroponics
 
 **Assignment: Task 2 — Implement guardrails in a multi-agentic architecture.**
 
